@@ -1,4 +1,4 @@
-# SocialDistanceTracker
+# Social Distance Tracker
 Detect if people are maintaining social distance.
 
 Using pretrained YOLO model on COCO dataset.
