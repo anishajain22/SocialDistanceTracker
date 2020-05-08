@@ -8,6 +8,8 @@ This model has several advantages over classifier-based systems. It looks at the
 
 Get weights from here https://pjreddie.com/darknet/yolo/
 
+Run script.py
+
 Input image
 ![Input image](https://github.com/anishajain22/SocialDistanceTracker/blob/master/image.jpg)
 
